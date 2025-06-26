@@ -1,0 +1,12 @@
+2025-06-26 18:36:01,620 - INFO - Running inference_node
+2025-06-26 18:36:06,342 - INFO - Prediction: 1 with confidence 1.00
+2025-06-26 18:36:06,350 - INFO - Running confidence_check_node
+2025-06-26 18:36:06,350 - INFO - Confidence above threshold. Proceeding without fallback.
+2025-06-26 18:36:46,970 - INFO - Running inference_node
+2025-06-26 18:36:47,012 - INFO - Prediction: 1 with confidence 1.00
+2025-06-26 18:36:47,012 - INFO - Running confidence_check_node
+2025-06-26 18:36:47,012 - INFO - Confidence above threshold. Proceeding without fallback.
+2025-06-26 18:38:05,821 - INFO - Running inference_node
+2025-06-26 18:38:05,860 - INFO - Prediction: 0 with confidence 1.00
+2025-06-26 18:38:05,860 - INFO - Running confidence_check_node
+2025-06-26 18:38:05,862 - INFO - Confidence above threshold. Proceeding without fallback.
