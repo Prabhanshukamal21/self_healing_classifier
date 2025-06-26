@@ -1,0 +1,9 @@
+# requirements.txt
+transformers
+peft
+langgraph
+datasets
+scikit-learn
+torch
+typer
+rich
